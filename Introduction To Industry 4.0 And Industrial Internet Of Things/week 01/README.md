@@ -5,6 +5,7 @@ Welcome to the *IoT and Communication Technologies* quiz. Below are the question
 ## Questions and Answers
 
 **1. Fill in the blank space designated by the question mark.**  
+![IoT Diagram](https://github.com/INNO-VISSION/NPTEL-ANSWERS-2025-JAN-APR-/blob/main/images/iot-img1.png "IoT Diagram")
    - a. Snubber  
    - b. Repeater  
    - c. Processor  
