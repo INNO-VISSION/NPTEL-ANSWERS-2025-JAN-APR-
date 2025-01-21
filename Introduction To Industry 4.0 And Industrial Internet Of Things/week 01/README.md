@@ -5,7 +5,7 @@ Welcome to the *Introduction To Industry 4.0 And Industrial Internet Of Things* 
 ## Questions and Answers
 
 **1. Fill in the blank space designated by the question mark.**  
-![IoT Diagram](images/iot-img1.png "IoT Diagram")
+![IoT Diagram](./images/iot-img1.png "IoT Diagram")
    - a. Snubber  
    - b. Repeater  
    - c. Processor  
