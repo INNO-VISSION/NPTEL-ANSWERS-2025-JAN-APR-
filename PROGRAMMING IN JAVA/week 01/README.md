@@ -10,7 +10,7 @@ Welcome to the Week 1 Assignment for the *Programming in Java* course. This cour
    - c. Java uses both interpreter and compiler.  
    - d. None of the above.  
    - **Answer:** c. Java uses both interpreter and compiler.
-
+![](https://imgur.com/a/D6kImix)
 ---
 **2. A Java file with extension .class contains**  
    - a. Java source code.  
