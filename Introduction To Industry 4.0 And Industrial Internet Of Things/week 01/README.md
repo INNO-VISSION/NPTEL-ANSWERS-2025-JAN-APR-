@@ -1,6 +1,6 @@
 # Introduction To Industry 4.0 And Industrial Internet Of Things - week 1 Assignment
 
-Welcome to the *IoT and Communication Technologies* quiz. Below are the questions, options, and answers. Let’s dive in!
+Welcome to the *Introduction To Industry 4.0 And Industrial Internet Of Things* quiz. Below are the questions, options, and answers. Let’s dive in!
 
 ## Questions and Answers
 
