@@ -1,4 +1,4 @@
-# Introduction To Industry 4.0 And Industrial Internet Of Things - Assignment 0
+# Introduction To Industry 4.0 And Industrial Internet Of Things - Week 0 Assignment
 
 Welcome to the *Introduction To Industry 4.0 And Industrial Internet Of Things*. Below are the questions, options, and answers. Let’s dive in!
 
