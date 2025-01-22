@@ -1,7 +1,4 @@
-# Week 1 Assignment 1 - Programming in Java
-
-Welcome to the Week 1 Assignment for the *Programming in Java* course. This course introduces you to Java programming, covering the basics such as object-oriented programming principles, Java syntax, and key tools like the Java compiler and interpreter. Below are the questions, options, and answers. Let’s dive in!
----
+# Week 1 Assignment- Programming in Java
 ## Questions and Answers
 
 **1. Which of the following is true?**  
