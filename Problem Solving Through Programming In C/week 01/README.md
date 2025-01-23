@@ -1,12 +1,14 @@
-Problem Solving Through Programming In C Week 1 Answers
+Problem Solving Through Programming 
+# Week 1 : Assignment 1
+## Questions and Answers
 
-### 1) Set of instructions to be provided to an electronic machine to perform a task is called
+### **1) Set of instructions to be provided to an electronic machine to perform a task is called**
 A) Programming
 B) Processing
 C) Computing
 D) Compiling
 
-Answer: Updating soon (in progress)
+**Answer:** Updating soon (in progress)
 
 Que. 2) Compiler helps in the translation from
 A) Integer to binary
