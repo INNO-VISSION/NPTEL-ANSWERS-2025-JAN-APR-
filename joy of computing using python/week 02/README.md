@@ -21,7 +21,7 @@
    - D) `a = input()`
        `a = int(a)`
 
-   **Answer:** A) `in(input())`
+   **Answer:** A),B),C)
 
 4. **The following program outputs 723 - For what value of a does the code output 123?**
    - A) 1
