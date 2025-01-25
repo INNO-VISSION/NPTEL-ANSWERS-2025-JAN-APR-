@@ -12,6 +12,7 @@
    **Answer:** B) False, the variable stores the value from the latest assignment.
 
 2. **Which of the following code blocks print - ”Ramesh talks to Suresh and Kamlesh”?**
+   ![IoT Diagram](https://raw.githubusercontent.com/INNO-VISSION/NPTEL-ANSWERS-2025-JAN-APR-/refs/heads/main/images/py-w2-img1.png "python diagram")
   
 
 3. **What aren’t the correct ways to inform Python that input is a decimal point number?**
@@ -29,7 +30,7 @@
    - C) 6
    - D) 5
 
-   **Answer:** A) 1
+   **Answer:** C) 6
 
 5. **What does the previous question calculate?**
    - A) Calculates the factorial of a.
@@ -64,12 +65,7 @@
    **Answer:** B) Yes, it can be prevented by updating the value of a before the if block at line 3.
 
 9. **For which of the following values of name and age variables does the following code print ”You are lucky”?**
-   - A) aryan, 20
-   - B) arjun, 19
-   - C) aakash, 16
-   - D) anand, 18
-
-   **Answer:** B) arjun, 19
+      ![IoT Diagram](https://raw.githubusercontent.com/INNO-VISSION/NPTEL-ANSWERS-2025-JAN-APR-/refs/heads/main/images/py-w2-img2.png "python diagram")
 
 10. **For which of the options among the previous question, the program doesn’t print anything?**
    - A) aryan, 20
@@ -77,4 +73,4 @@
    - C) arjun, 19
    - D) anand, 18
 
-   **Answer:** A) aryan, 20
+   **Answer:** B) aakash, 16
