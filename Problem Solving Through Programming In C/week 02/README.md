@@ -65,12 +65,17 @@ IV. C keywords are also called reserved words.
 
 ### 8. If an integer needs two bytes of storage, then the minimum value of a signed integer in C would be:
 
+ ![IoT Diagram](https://raw.githubusercontent.com/INNO-VISSION/NPTEL-ANSWERS-2025-JAN-APR-/refs/heads/main/images/c-w2-img2.png "python diagram")
 
 ### 9. 
+ ![IoT Diagram](https://raw.githubusercontent.com/INNO-VISSION/NPTEL-ANSWERS-2025-JAN-APR-/refs/heads/main/images/c-w2-img3.png "python diagram")
+ 
 - a) 9
 - b) 0
 - c) 1001
 - d) Compilation Error
 
 **Answer:** a) 9
-### 10 . 
+ 
+### 10.
+ ![IoT Diagram](https://raw.githubusercontent.com/INNO-VISSION/NPTEL-ANSWERS-2025-JAN-APR-/refs/heads/main/images/c-w2-img4.png "python diagram")
