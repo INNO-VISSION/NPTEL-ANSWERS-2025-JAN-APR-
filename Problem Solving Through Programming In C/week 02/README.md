@@ -53,7 +53,7 @@ IV. C keywords are also called reserved words.
 - c) 16.00
 - d) 12.00
 
-**Answer:** b) 21.00
+**Answer:** d) 12.00
 
 ### 7. What will be the result of the following expression: `40 + 66 - 100 / 2`?
 - a) 106
@@ -65,12 +65,12 @@ IV. C keywords are also called reserved words.
 
 ### 8. If an integer needs two bytes of storage, then the minimum value of a signed integer in C would be:
 
-**Answer:** -32,768 (Explanation: Minimum value = -2^(n-1), where n = number of bits in storage. For two bytes (16 bits), it is -2^(16-1) = -32,768.)
 
-### 9. What will be the result of the following binary operation: `9 & 0`?
+### 9. 
 - a) 9
 - b) 0
 - c) 1001
 - d) Compilation Error
 
-**Answer:** b) 0
+**Answer:** a) 9
+### 10 . 
