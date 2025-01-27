@@ -1,10 +1,6 @@
-<!-- NPTEL-ANSWERS-2025-JAN-APR- -->
-
-# InnoVision 🚀
+# InnoVission 🚀
 
 Welcome to **InnoVision**, a platform dedicated to empowering individuals through skill development and online education. Our mission is to make learning accessible and engaging for everyone, everywhere.
-
-
 
 ## 📚 About InnoVision
 
@@ -24,6 +20,18 @@ InnoVision is focused on providing high-quality educational content and courses 
 | **Machine Learning**      | Get hands-on experience with algorithms, data processing, and models. |
 | **Artificial Intelligence** | Dive deep into AI concepts such as neural networks and NLP.         |
 
+## 📘 NPTEL Assignment Answers 2025
+
+In addition to our courses, we provide **accurate and detailed NPTEL assignment answers** for learners enrolled in NPTEL programs. Our solutions are designed to help students succeed in their coursework and exams.
+
+### 📖 NPTEL Solutions Features:
+- Weekly assignment answers for all courses (Weeks 1 to 12).
+- Trending course solutions: AI, Data Science, Machine Learning, and more.
+- Step-by-step explanations to ensure conceptual clarity.
+- Updated content aligned with the latest NPTEL syllabus for 2025.
+
+Visit [NPTEL Assignment Solutions](https://www.innovission.in/nptel.html) for more details.
+
 ## 📈 Why Choose InnoVision?
 
 - **Quality Content**: Expert-led courses designed to enhance your learning experience.
@@ -32,7 +40,7 @@ InnoVision is focused on providing high-quality educational content and courses 
 
 ## 💡 How to Get Started
 
-1. **Visit Our Website**: [InnoVision Official Website](https://innovision.com)
+1. **Visit Our Website**: [InnoVision Official Website](https://innovision.in)
 2. **Explore Courses**: Choose from a wide variety of technical courses available.
 3. **Sign Up**: Create a free account and start learning.
 4. **Join the Community**: Participate in discussions and collaborate on projects.
@@ -67,13 +75,4 @@ We welcome contributions to enhance our platform. To contribute:
 2. Create a new branch for your feature/bugfix.
 3. Submit a pull request with a detailed description of the changes.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 _InnoVision: Empowering India's Future, One Skill at a Time._
-
-
-
