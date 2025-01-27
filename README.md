@@ -40,7 +40,7 @@ Visit [NPTEL Assignment Solutions](https://www.innovission.in/nptel.html) for mo
 
 ## 💡 How to Get Started
 
-1. **Visit Our Website**: [InnoVision Official Website](https://innovision.in)
+1. **Visit Our Website**: [InnoVision Official Website](https://innovission.in)
 2. **Explore Courses**: Choose from a wide variety of technical courses available.
 3. **Sign Up**: Create a free account and start learning.
 4. **Join the Community**: Participate in discussions and collaborate on projects.
@@ -58,14 +58,14 @@ Join our community to connect with other learners and experts:
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Flask
 - **Database**: MySQL
-- **Other Tools**: Docker, GitHub Actions
+- **Other Tools**: GitHub Actions
 
 ## 📬 Contact Us
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Email**: innovision1410@gmail.com
-- **Phone**: +91 9441663905
+- **Phone**: +91 9441663905 , 9440571390
 - **Address**: InnoVision Building, Kuppam, India
 
 ## 🤝 Contributing
