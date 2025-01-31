@@ -1,5 +1,5 @@
 
-## Week 3 - Assignment3 Joy Of Computing Using Python
+## Week 3 - Assignment 3 Joy Of Computing Using Python
 
 ### 1. Which of the following is/are false statement(s)?
 - A. Lists are fixed in size, they cannot store more than 1024 values  
