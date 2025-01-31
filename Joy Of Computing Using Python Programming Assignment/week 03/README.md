@@ -1,5 +1,5 @@
 ### Week 3: Programming Assignment 1
-###E 1. Create a Python program that finds the second smallest number in a list of positive integers (including zero). The program should prompt the user to input a list of numbers, then compute and print the second smallest number in that list.
+#### 1. Create a Python program that finds the second smallest number in a list of positive integers (including zero). The program should prompt the user to input a list of numbers, then compute and print the second smallest number in that list.
 
 **Program Code :**
 
@@ -51,7 +51,7 @@ print(" ".join(map(str, unique_numbers)))
 ### Week 3: Programming Assignment 3
 #### 3. Create a Python program that takes a list of integers, reverses the list, adds the values at even indices from both the original and reversed lists, and creates a new list with the result. The new list should be printed in the end.
 
-**Program :**
+**Program Code:**
 
 def process_list(nums):
     
