@@ -37,21 +37,6 @@ In addition to our courses, we provide **accurate and detailed NPTEL assignment 
 - **Interactive Learning**: Engage in hands-on projects and real-world exercises.
 - **Community Support**: Access to a community of learners and mentors to support your journey.
 
-## 💡 How to Get Started
-
-1. **Visit Our Website**: - <a href="https://innovission.in" target="_blank">InnoVision Official Website</a>
-2. **Explore Courses**: Choose from a wide variety of technical courses available.
-3. **Sign Up**: Create a free account and start learning.
-4. **Join the Community**: Participate in discussions and collaborate on projects.
-
-## 🌍 Community
-
-Join our community to connect with other learners and experts:
-- [LinkedIn](https://www.linkedin.com/company/innovision)
-- [Instagram](https://www.instagram.com/innovision)
-- [Facebook](https://www.facebook.com/innovision)
-- <a href="https://twitter.com/innovision" target="_blank">Twitter</a>
-
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
@@ -71,7 +56,7 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 
 We welcome contributions to enhance our platform. To contribute:
 1. Fork the repository.
-2. Create a new branch for your feature/bugfix.
+2. Create a new branch for your feature bugfix.
 3. Submit a pull request with a detailed description of the changes.
 
 _InnoVision: Empowering India's Future, One Skill at a Time._
