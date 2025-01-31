@@ -30,7 +30,6 @@ In addition to our courses, we provide **accurate and detailed NPTEL assignment 
 - Step-by-step explanations to ensure conceptual clarity.
 - Updated content aligned with the latest NPTEL syllabus for 2025.
 
-Visit [NPTEL Assignment Solutions](https://www.innovission.in/nptel.html) for more details.
 
 ## 📈 Why Choose InnoVision?
 
@@ -40,7 +39,7 @@ Visit [NPTEL Assignment Solutions](https://www.innovission.in/nptel.html) for mo
 
 ## 💡 How to Get Started
 
-1. **Visit Our Website**: [InnoVision Official Website](https://innovission.in)
+1. **Visit Our Website**: - <a href="https://innovission.in" target="_blank">InnoVision Official Website</a>
 2. **Explore Courses**: Choose from a wide variety of technical courses available.
 3. **Sign Up**: Create a free account and start learning.
 4. **Join the Community**: Participate in discussions and collaborate on projects.
