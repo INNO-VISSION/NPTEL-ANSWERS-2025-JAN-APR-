@@ -29,14 +29,27 @@ In addition to our courses, we provide **accurate and detailed NPTEL assignment 
 - Trending course solutions: AI, Data Science, Machine Learning, and more.
 - Step-by-step explanations to ensure conceptual clarity.
 - Updated content aligned with the latest NPTEL syllabus for 2025.
-1. **Visit Our Website**: - <a href="https://innovission.in" target="_blank">InnoVision Official Website</a>
-
 
 ## 📈 Why Choose InnoVision?
 
 - **Quality Content**: Expert-led courses designed to enhance your learning experience.
 - **Interactive Learning**: Engage in hands-on projects and real-world exercises.
 - **Community Support**: Access to a community of learners and mentors to support your journey.
+## 💡 How to Get Started
+
+1. **Visit Our Website**: <a href="https://innovision.com" target="_blank">InnoVision Official Website</a>
+2. **Explore Courses**: Choose from a wide variety of technical courses available.
+3. **Sign Up**: Create a free account and start learning.
+4. **Join the Community**: Participate in discussions and collaborate on projects.
+
+## 🌍 Community
+
+Join our community to connect with other learners and experts:
+- <a href="https://www.linkedin.com/company/innovision" target="_blank">LinkedIn</a>
+- <a href="https://www.instagram.com/innovision" target="_blank">Instagram</a>
+- <a href="https://www.facebook.com/innovision" target="_blank">Facebook</a>
+- <a href="https://twitter.com/innovision" target="_blank">Twitter</a>
+
 
 ## 🛠️ Technologies Used
 
