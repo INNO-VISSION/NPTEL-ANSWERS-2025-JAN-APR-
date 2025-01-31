@@ -83,8 +83,7 @@
 
 ### 10. What does the code in question 8, calculate ?
 
-	Can you say what the values of k and b are if n = 245326785456 x 103359
- 
+	Can you say what the values of k and b are if n = 245326785456 x 10^3359 
 	If values of k and b are different, enter 0, else enter value of k.
 
 
