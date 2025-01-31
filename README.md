@@ -51,7 +51,7 @@ Join our community to connect with other learners and experts:
 - [LinkedIn](https://www.linkedin.com/company/innovision)
 - [Instagram](https://www.instagram.com/innovision)
 - [Facebook](https://www.facebook.com/innovision)
-- [Twitter](https://twitter.com/innovision)
+- <a href="https://twitter.com/innovision" target="_blank">Twitter</a>
 
 ## 🛠️ Technologies Used
 
