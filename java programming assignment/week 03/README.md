@@ -97,6 +97,117 @@ public class W03_P3 {
         sc.close();
     }
 }
+# Week 03: Programming Assignment 4
+
+A Student class with private fields (name, age) is provided,
+
+Your task is to make the following: 
+
+- a parameterized constructor to initialize the private fields
+
+- the getter/setter methods for each field
+
+Follow the naming convention as given in the main method of the suffix code.
+
+---
+
+## Solution Code
+
+import java.util.Scanner;
+
+class Student {
+    
+    private String name;
+    private int age;
+
+    
+    public Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    
+    public String getName() {
+        return name;
+    }
+
+    
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    
+    public int getAge() {
+        return age;
+    }
+
+   
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        
+        String name = scanner.next();
+        int age = scanner.nextInt();
+
+        
+        Student student = new Student(name, age);
+
+        
+        System.out.print("Name: " + student.getName() + ", Age: " + student.getAge());
+
+        scanner.close();
+    }
+}
+# Week 03: Programming Assignment 5
+
+This program is an exercise to call static and non-static methods.
+
+A partial code is given defining two methods, namely sum( ) and multiply ( ).
+
+You have to call these methods to find the sum and product of two numbers.
+
+Complete the code segment as instructed.  
+
+---
+
+## Solution Code
+
+
+import java.util.Scanner;
+
+class QuestionScope {
+
+    int sum(int a, int b) { 
+        return a + b;
+    }
+
+    static int multiply(int a, int b) { 
+        return a * b;
+    }
+}
+
+public class W03_P5 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n1 = sc.nextInt();
+        int n2 = sc.nextInt();
+
+        QuestionScope st = new QuestionScope();
+        int result1 = st.sum(n1, n2); 
+        int result2 = QuestionScope.multiply(n1, n2); 
+        
+        System.out.println(result1);
+        System.out.print(result2);
+    }
+}
+
+
 
 
 
