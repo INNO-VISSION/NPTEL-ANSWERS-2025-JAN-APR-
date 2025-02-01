@@ -20,7 +20,7 @@ int main() {
     obj.show();
     return 0;
 }
-```
+
 **What is the output of the above program?**
 
 - **a)** Base class A  
@@ -48,17 +48,17 @@ int main() {
 
 ### **3. Which of the following correctly calls all three methods from an object of C in multilevel inheritance?**
 
-- **a)** `C obj; obj.display(); obj.show(); obj.output();`  
-- **b)** `B obj; obj.show(); obj.output();`  
-- **c)** `A obj; obj.display(); obj.show(); obj.output();`  
-- **d)** `C obj; obj.output();`  
+- **a)** C obj; obj.display(); obj.show(); obj.output();`  
+- **b)** B obj; obj.show(); obj.output();`  
+- **c)** A obj; obj.display(); obj.show(); obj.output();`  
+- **d)** C obj; obj.output();`  
 
 **Answer:** a) `C obj; obj.display(); obj.show(); obj.output();`  
 
 ---
 
 ### **4. Consider the following Java code:**
-```java
+
 class A {
     void display() { System.out.println("Class A"); }
 }
@@ -76,13 +76,12 @@ public class Main {
         B objB = new B();
         objB.display(); 
         objB.show();
-
         C objC = new C();
         objC.display(); 
         objC.output();
     }
 }
-```
+
 **What is the output of the above program?**
 
 - **a)** Class A  
