@@ -35,13 +35,13 @@ class W03_P1 {
     }
 }
 
-# Week 03: Programming Assignment 2
+### Week 03: Programming Assignment 2
 
 There are two class cls1 and cls2 which is subclass of cls1.  cls1 having a method "add" which add two numbers. Create two method inside cls2 which will take 2 parameters as input i.e. a and b and print the sum , multiplication and sum of their squares i.e (a^2) + (b^2) (name the function task())
 
 ---
 
-## Solution Code
+#### Solution Code
 
 import java.util.Scanner;
 
@@ -64,7 +64,7 @@ class W03_P1 {
     }
 }
 
-# Week 03: Programming Assignment 3
+#### Week 03: Programming Assignment 3
 
 Complete the code segment to count number of digits in an integer using while loop.
 
@@ -72,7 +72,7 @@ Complete the code segment to count number of digits in an integer using while lo
 
 ---
 
-## Solution Code
+#### Solution Code
 
 import java.util.Scanner;
 
@@ -97,7 +97,8 @@ public class W03_P3 {
         sc.close();
     }
 }
-# Week 03: Programming Assignment 4
+
+### Week 03: Programming Assignment 4
 
 A Student class with private fields (name, age) is provided,
 
@@ -111,7 +112,7 @@ Follow the naming convention as given in the main method of the suffix code.
 
 ---
 
-## Solution Code
+#### Solution Code
 
 import java.util.Scanner;
 
@@ -163,7 +164,8 @@ class Student {
         scanner.close();
     }
 }
-# Week 03: Programming Assignment 5
+
+### Week 03: Programming Assignment 5
 
 This program is an exercise to call static and non-static methods.
 
@@ -175,7 +177,7 @@ Complete the code segment as instructed.
 
 ---
 
-## Solution Code
+#### Solution Code
 
 
 import java.util.Scanner;
