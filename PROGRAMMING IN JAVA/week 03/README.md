@@ -7,7 +7,7 @@
   b. super is used to access private variables of the parent class.  
   c. super is used to call a static method in the parent class.  
   d. super can only be used inside a static method.  
-- *Answer:* a. super can be used to call a parent class constructor.
+*Answer:* a. super can be used to call a parent class constructor.
 
 ### 2. What is the output of the following Java program?
 
@@ -29,7 +29,7 @@ class StaticScopeDemo {
   b. Compilation Error  
   c. 5  
   d. 10  
-- *Answer:* a. 15
+*Answer:* a. 15
 
 ### 3. What will be the output of the following program?
 
@@ -57,7 +57,7 @@ public class Main {
   b. Child display  
   c. Compilation Error  
   d. Runtime Error  
-- *Answer:* b. Child display
+*Answer:* b. Child display
 
 ### 4. Which of the following statements about abstract classes in Java is correct?
   
@@ -65,7 +65,7 @@ public class Main {
   b. An abstract class must contain at least one abstract method.  
   c. A class inheriting from an abstract class must implement all its abstract methods unless it is itself abstract.  
   d. Abstract classes can be marked as final.  
-- *Answer:* c. A class inheriting from an abstract class must implement all its abstract methods unless it is itself abstract.
+*Answer:* c. A class inheriting from an abstract class must implement all its abstract methods unless it is itself abstract.
 
 ### 5. What will be the output of the following Java program?
 
@@ -86,7 +86,7 @@ public class NptelExample {
   b. 24  
   c. 120  
   d. Runtime Error  
-- *Answer:* c. 120
+*Answer:* c. 120
 
 ### 6. Which of the following is NOT true regarding the final keyword in Java?
 
@@ -94,7 +94,7 @@ public class NptelExample {
   b. A final variable can only be assigned once.  
   c. A final class can have subclasses.  
   d. A final variable can be assigned during declaration or in the constructor.  
-- *Answer:* c. A final class can have subclasses.
+*Answer:* c. A final class can have subclasses.
 
 ### 7. What is the output of the following Java program?
 
@@ -116,7 +116,7 @@ class Test {
   b. Compilation Error  
   c. Runtime Error  
   d. Count: 3  
-- *Answer:* d. Count: 3
+*Answer:* d. Count: 3
 
 ### 8. Which of these is NOT an example of method overriding in Java?
 
@@ -124,7 +124,7 @@ class Test {
   b. A subclass providing a new implementation for a method in the superclass.  
   c. A subclass defining a method with the same name and parameters as a superclass method.  
   d. Using the super keyword to call the superclass version of an overridden method.  
-- *Answer:* a. A subclass defining a method with the same name but different parameters than a superclass method.
+*Answer:* a. A subclass defining a method with the same name but different parameters than a superclass method.
 
 ### 9. What is the output of the following Java program?
 
@@ -150,7 +150,7 @@ public class Main {
   b. Child  
   c. Compilation Error  
   d. No error and nothing is printed  
-- *Answer:* c. Compilation Error
+*Answer:* c. Compilation Error
 
 ### 10. What is the output of the following program?
 
@@ -171,5 +171,5 @@ public class Nptel {
   b. 10  
   c. 15  
   d. Runtime Error  
-- *Answer:* c. 15
+*Answer:* c. 15
 
