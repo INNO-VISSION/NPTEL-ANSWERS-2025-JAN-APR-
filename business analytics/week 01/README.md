@@ -1,4 +1,4 @@
-### Week 01: Business Analytics For Management Decision
+![image](https://github.com/user-attachments/assets/418e51db-cd0e-4edb-98e0-2f9216fe0ec7)### Week 01: Business Analytics For Management Decision
 
 ---
 
@@ -20,14 +20,14 @@
    *Answer:* C. Correlation  
    (Correlation is part of inferential analytics, not descriptive analytics.)
 
-3. *What is the interquartile range of the following series: 80, 100, 110, 130, 190, 200?*
+3. *What is the interquartile range of the following series: 80, 100, 100,110, 130, 190, 200?*
    
    A. 5  
    B. 50  
    C. 90  
    D. None  
-   *Answer:* B. 50  
-   (Q1 = 100, Q3 = 150, so IQR = Q3 - Q1 = 50.)
+   *Answer:*  C. 90   
+   (Q1 = 190, Q3 = 100, so IQR = Q3 - Q1 = 90.)
 
 4. *In analytics, which is not correct?*  
 
@@ -114,11 +114,11 @@
 13. *Which is not part of plotting?*  
 
     A. Line graph  
-    B. Giger  
+    B. ogive  
     C. Leaf chart  
     D. None  
-    *Answer:* B. Giger  
-    ("Giger" is not a standard plotting method.)
+    *Answer:* B. ogive 
+    ("ogive" is not a standard plotting method.)
 
 14. *Dependent variable is otherwise called:*
     
