@@ -1,4 +1,4 @@
-### Week 2: Assignment 2 - Sensors and Accurators
+### Week 2: Assignment 2 - Sensors and Actuators
 #### 1. Evaluate whether the below statement is true or false:
 
 “The four basic components of MEMS are microelectronics, microsensors, micro actuators, and microstructures.”
