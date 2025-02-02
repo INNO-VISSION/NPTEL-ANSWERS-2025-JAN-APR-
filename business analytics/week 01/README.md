@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/418e51db-cd0e-4edb-98e0-2f9216fe0ec7)### Week 01: Business Analytics For Management Decision
+### Week 01: Business Analytics For Management Decision
 
 ---
 
