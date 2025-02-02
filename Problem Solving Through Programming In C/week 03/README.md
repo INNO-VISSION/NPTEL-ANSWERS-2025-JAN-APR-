@@ -10,7 +10,9 @@ d) %, +, -, *, /
 
 ---
 
-## 2. What will be the output of the given expression?
+#### 2. 
+![image](https://github.com/user-attachments/assets/b57c8bd9-e1d4-4374-8e8c-0068346456b3)
+
 a) -1  
 b) 1  
 c) 0  
@@ -20,17 +22,21 @@ d) Compilation error
 
 ---
 
-## 3. What will be the result of the given arithmetic operation?
+#### 3. 
+![image](https://github.com/user-attachments/assets/7c87a78e-c572-4ea4-9425-c1b3beb09698)
+
 a) -42  
 b) 24  
 c) 15  
 d) -34  
 
-**Answer:** d) -34  
+**Answer:** c) 15   
 
 ---
 
-## 4. What will be the output of the given code snippet?
+#### 4. 
+![image](https://github.com/user-attachments/assets/a61e35e9-d18f-4f48-b006-692ea94c3851)
+
 a) 0  
 b) 3  
 c) 4  
@@ -40,37 +46,44 @@ d) Compilation error
 
 ---
 
-## 5. What will be the output of the given boolean expression?
+#### 5.
+![image](https://github.com/user-attachments/assets/2026d244-f0d6-48c6-a2e1-daaba41f7700)
+
 a) TRUE  
 b) FALSE  
 c) Syntax Error  
 d) Compilation Error  
 
-**Answer:** a) TRUE  
+**Answer:** b) FALSE   
 
 ---
 
-## 6. Which IITs are included in the given selection?
+#### 6.
+![image](https://github.com/user-attachments/assets/46219155-97d8-444e-864f-68623adef079)
+
 a) IITKGP  
 b) IITD and IITM  
 c) IITKGP and IITM  
 d) IITM  
 
-**Answer:** c) IITKGP and IITM  
+**Answer:** a) IITKGP  
+
 
 ---
 
-## 7. What will be the output of the given logical condition?
+#### 7.
+![image](https://github.com/user-attachments/assets/b7609e61-ec37-4ef8-bc1e-17e8e26f600a)
+
 a) TRUE  
 b) FALSE  
 c) Compilation Error  
 d) Compiler Dependent  
 
-**Answer:** b) FALSE  
+**Answer:** a) TRUE 
 
 ---
 
-## 8. Which of the following statements is correct regarding operator precedence and associativity?
+#### 8. Which of the following statements is correct regarding operator precedence and associativity?
 a) Operator precedence determines which operator is performed first in an expression with more than one operator with different precedence.  
    Associativity is used when two operators of the same precedence appear in an expression.  
 b) Operator associativity determines which operator is performed first in an expression with more than one operator with different associativity.  
@@ -83,7 +96,7 @@ Associativity is used when two operators of the same precedence appear in an exp
 
 ---
 
-## 9. Which of the following methods are accepted for assignment?
+#### 9. Which of the following methods are accepted for assignment?
 a) 8=x=y=z  
 b) x=8=y=z  
 c) x=y=z=8  
@@ -93,12 +106,12 @@ d) None
 
 ---
 
-## 10. 
+#### 10. 
+![image](https://github.com/user-attachments/assets/032eebaf-6ef2-40a3-91cf-eebf23d9cd49)
+
 a. 0  
 b. 1  
 c. 7  
 d. Compilation error  
 
-**Answer:** b) 1  
-
----
+**Answer:** a. 0  
