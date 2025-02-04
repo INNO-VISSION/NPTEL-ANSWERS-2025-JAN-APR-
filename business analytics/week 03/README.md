@@ -51,7 +51,8 @@
    *Explanation:* The plot shows points with consistent spread around the line, indicating constant variance.
 
 7. The below figures reflect:
- ![image](https://github.com/user-attachments/assets/e6a1c6d4-1d07-4b27-8484-9e6619fc70c4)
+   
+   ![image](https://github.com/user-attachments/assets/e6a1c6d4-1d07-4b27-8484-9e6619fc70c4)
 
    - A. Contingency table  
    - B. Reflecting a sum of investment  
@@ -95,7 +96,7 @@
     *Answer:* A. Both are consistent  
     *Explanation:* Consistency depends on variance, and if both have similar variances, both are consistent.
 
-13. Below figure depicts the following
+12. Below figure depicts the following
     
     ![image](https://github.com/user-attachments/assets/4e9f38a2-2dd0-4c31-96d7-22e3e9ba624a)
 
@@ -106,7 +107,7 @@
     *Answer:* D. None  
     *Explanation:* The figure does not match the descriptions provided in the options.
 
-14. The sum of two probabilities (A and B) is:
+13. The sum of two probabilities (A and B) is:
     - A. Greater than 1  
     - B. Negative  
     - C. Between 0 and 1  
@@ -114,7 +115,7 @@
     *Answer:* C. Between 0 and 1  
     *Explanation:* The sum of two valid probabilities is between 0 and 1 if they represent non-overlapping events.
 
-15. Given P(X) = 0.40, P(Y) = 0.50, P(X∩Y) = 1.15. Find P(X∣Y):  
+14. Given P(X) = 0.40, P(Y) = 0.50, P(X∩Y) = 1.15. Find P(X∣Y):  
     - A. 0.25  
     - B. 0.75  
     - C. 0.12  
@@ -122,7 +123,7 @@
     *Answer:* D. None  
     *Explanation:* The value of P(X∩Y) exceeds 1, which is invalid, making the calculation impossible.
 
-16. Which one is continuous distribution:
+15. Which one is continuous distribution:
     - A. Poisson  
     - B. Binomial  
     - C. Uniform  
