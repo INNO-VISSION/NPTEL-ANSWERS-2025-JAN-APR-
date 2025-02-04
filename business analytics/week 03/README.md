@@ -42,7 +42,7 @@
 
 6. This plotting depicts:
    
- ![image](https://github.com/user-attachments/assets/7a2b8f04-5de2-47a4-9ecc-111ea5ba849d)
+![image](https://github.com/user-attachments/assets/7a2b8f04-5de2-47a4-9ecc-111ea5ba849d)
    - A. Zero variance
    - B. Constant variance  
    - C. Negative variance  
@@ -51,7 +51,7 @@
    *Explanation:* The plot shows points with consistent spread around the line, indicating constant variance.
 
 7. The below figures reflect:
-   ![image](https://github.com/user-attachments/assets/e6a1c6d4-1d07-4b27-8484-9e6619fc70c4)
+ ![image](https://github.com/user-attachments/assets/e6a1c6d4-1d07-4b27-8484-9e6619fc70c4)
 
    - A. Contingency table  
    - B. Reflecting a sum of investment  
@@ -85,7 +85,8 @@
     *Explanation:* The range depends on the context of probabilities but generally lies within 0 to 1 or scaled appropriately.
 
 11. Which player is consistent?
-    ![image](https://github.com/user-attachments/assets/ebf0593a-97c4-4481-844c-35ae147610b5)
+ 
+    ![image](https://github.com/user-attachments/assets/fffde0c5-ec2c-4c56-93e3-5068e47527e8)
 
     - A. Both are consistent  
     - B. Cannot be determined  
@@ -94,8 +95,9 @@
     *Answer:* A. Both are consistent  
     *Explanation:* Consistency depends on variance, and if both have similar variances, both are consistent.
 
-12. Below figure depicts the following:
-    ![image](https://github.com/user-attachments/assets/eabaec3a-6ecb-4e68-b434-edd71e8251e8)
+13. Below figure depicts the following
+    
+    ![image](https://github.com/user-attachments/assets/4e9f38a2-2dd0-4c31-96d7-22e3e9ba624a)
 
     - A. Uniform distribution  
     - B. Range is zero  
@@ -104,7 +106,7 @@
     *Answer:* D. None  
     *Explanation:* The figure does not match the descriptions provided in the options.
 
-13. The sum of two probabilities (A and B) is:
+14. The sum of two probabilities (A and B) is:
     - A. Greater than 1  
     - B. Negative  
     - C. Between 0 and 1  
@@ -112,7 +114,7 @@
     *Answer:* C. Between 0 and 1  
     *Explanation:* The sum of two valid probabilities is between 0 and 1 if they represent non-overlapping events.
 
-14. Given P(X) = 0.40, P(Y) = 0.50, P(X∩Y) = 1.15. Find P(X∣Y):  
+15. Given P(X) = 0.40, P(Y) = 0.50, P(X∩Y) = 1.15. Find P(X∣Y):  
     - A. 0.25  
     - B. 0.75  
     - C. 0.12  
@@ -120,7 +122,7 @@
     *Answer:* D. None  
     *Explanation:* The value of P(X∩Y) exceeds 1, which is invalid, making the calculation impossible.
 
-15. Which one is continuous distribution:
+16. Which one is continuous distribution:
     - A. Poisson  
     - B. Binomial  
     - C. Uniform  
