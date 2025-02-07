@@ -95,7 +95,7 @@ Which of the following will be the TRC query to obtain the department names that
 
 ---
 
-###### *8. Consider the relations S1( A, B, C ) and S2( C, D, E )*  
+##### *8. Consider the relations S1( A, B, C ) and S2( C, D, E )*  
 The relation S1 contains 2000 tuples and S2 contains 2500 tuples. The maximum size of the join *S1 ⋈ S1.C = S2.C S2* is  
 
 *a)* 2000  
