@@ -62,6 +62,7 @@
 ---
 
 ##### **7. What task does mystery1() perform?**
+![image](https://github.com/user-attachments/assets/d9a00c6a-c0cc-4da1-a7db-b9c7e77ccdc3)
    
    a. Calculate factorial of number n.  
    b. Calculate factors of number n.  
