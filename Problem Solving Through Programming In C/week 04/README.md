@@ -16,7 +16,7 @@
 - b) x=0  
 - c) Depends on compiler  
 - d) No output  
-**Answer:** a) x=1  
+**Answer:** d) No output  
 
 ---
 
@@ -27,7 +27,7 @@
 - b) 3  
 - c) 4  
 - d) Compiler error  
-**Answer:** c) 4  
+**Answer:** a) 2 
 
 ---
 
@@ -88,7 +88,7 @@
 - b) char  
 - c) long  
 - d) enum  
-**Answer:** c) long  
+**Answer:** d) enum    
 
 ---
 
@@ -99,4 +99,4 @@
 - b) Choice other than 1  
 - c) Both (a) and (b)  
 - d) Syntax error  
-**Answer:** a) Choice is 1  
+**Answer:** c) Both (a) and (b)   
