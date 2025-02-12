@@ -7,7 +7,7 @@
    c. \( n^3 + 2n^2 \)  
    d. \( n^4 + n^2/2n \)  
    
-   **Answer:** a. \( n(n^2+1)/2 \)  
+   **Answer:** a. \( n(n^2+1)/2 \) ,  d. \( n^4 + n^2/2n \) 
 
 ---
 
@@ -18,7 +18,7 @@
    c. 175  
    d. 165  
    
-   **Answer:** a. 260  
+   **Answer:** c. 175   
 
 ---
 
@@ -27,7 +27,7 @@
    a. Yes  
    b. No  
    
-   **Answer:** b. No  
+   **Answer:**  a. Yes  
 
 ---
 
@@ -42,7 +42,7 @@
    - **Option 4:**  
      \[ \begin{bmatrix} \pi & 8\pi & 13\pi \\ 12\pi & 14\pi & 11\pi \\ 2\pi & 7\pi & 4\pi \end{bmatrix} \]  
    
-   **Answer:** Option 1 and Option 3  
+   **Answer:** Option 1 , Option 2 and Option 3  
 
 ---
 
@@ -57,7 +57,7 @@
    - If yes, enter 0.
    - If no, enter the absolute difference between the two.  
    
-   **Answer:** 0  
+   **Answer:**  74
 
 ---
 
@@ -80,7 +80,7 @@
    c. 3,4  
    d. 0,0  
    
-   **Answer:** b. 2,3  
+   **Answer:** b). 2,3  ,c). 3,4  d). 0,0
 
 ---
 
@@ -91,7 +91,7 @@
    c. It will print "Completed" for all pairs of primes between 0 and 20.  
    d. It will not print "Completed" for any pair.  
    
-   **Answer:** a. It will print "Completed" only for pairs (2,3), (7,2), (2,5), and for the remaining it would not print "Completed".  
+   **Answer:**  c. It will print "Completed" for all pairs of primes between 0 and 20.   
 
 ---
 
