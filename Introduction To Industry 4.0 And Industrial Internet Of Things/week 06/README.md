@@ -1,4 +1,4 @@
-#### Week 6 : Assignment 6 
+#### Week 6 : Assignment 6 - Introduction to Industry 4.0 and Industrial Internet of Things
 
 ##### 1. Which industrial communication technology is suitable for hazardous environments?  
 - a. ModBus-TCP  
