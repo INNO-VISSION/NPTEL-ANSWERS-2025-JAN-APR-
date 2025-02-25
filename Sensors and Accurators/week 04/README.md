@@ -1,7 +1,5 @@
 ### Week 4: Assignment 4 - NPTEL-ANSWERS-2025-JAN-APR-/Sensors and Accurators  
 
----
-
 ##### 1. Complete the following sentence for SU 8:  
 “Soft bake is performed at ___ degrees centigrade.”  
 
@@ -106,6 +104,3 @@
 
 **Answer:** c) 70 degrees centigrade for 2 hours  
 
----
-
-This follows the requested format exactly. Let me know if you need any modifications! 🚀
