@@ -4,7 +4,7 @@
 
 #### Questions:
 
-###### 1. If n is a positive integer, what is the output of the function given input n?
+##### 1. If n is a positive integer, what is the output of the function given input n?
 - (A) Sum of numbers from 1 to n
 - (B) Sum of numbers from 1 to n-1
 - (C) n-1
@@ -29,7 +29,7 @@ Reason (R): Recursion means that a function calls itself.
 
 **Answer:** (C)
 
-### 4. In English, the letter ‘z’ usually appears far less often than most letters. Now imagine applying a Substitution Cipher to a large body of English text, where ‘z’ is replaced by ‘r’, and every other letter is also mapped to a unique letter. After encryption, which letter is likely to be the least frequent in the new text?
+##### 4. In English, the letter ‘z’ usually appears far less often than most letters. Now imagine applying a Substitution Cipher to a large body of English text, where ‘z’ is replaced by ‘r’, and every other letter is also mapped to a unique letter. After encryption, which letter is likely to be the least frequent in the new text?
 - (A) z
 - (B) r
 - (C) e
