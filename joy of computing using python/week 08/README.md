@@ -1,6 +1,5 @@
 ### **Week 8: Assignment 8**  
 📝 **Due Date:** 2025-03-19, 23:59 IST  
-📌 **Your last recorded submission was on:** 2025-03-11, 23:19 IST  
 
 ---
 
