@@ -24,25 +24,34 @@ d) Tuples are used only for string data, while lists can store any data type.
 ---
 
 ### **3. Will the following piece of code always return True?**  
+![image](https://github.com/user-attachments/assets/53fc9f31-cda0-484b-808b-0b2ccecf91dd)
 
-✅ **Answer:** False  
+ **a) True**
+ **b) False**
+✅ **Answer:** b) False  
 
 ---
 
-### **4. What is the output of the following code?**  
+### **4. What is the output of the following code?** 
+![image](https://github.com/user-attachments/assets/8ffeefc3-eb28-46f5-bb64-8e9c22f13234)
 
-✅ **Answer:** *(Image missing, please provide the code snippet to determine the correct output)*  
+![image](https://github.com/user-attachments/assets/dcbe81c3-d7dd-426d-b360-d1050c3d54ef)
+
+![image](https://github.com/user-attachments/assets/ec6b4302-e46a-4d89-99ee-a4a90631b485)
+
 
 ---
 
 ### **5. What is the total degree of the given graph?**  
+![image](https://github.com/user-attachments/assets/9c73f32a-2122-409f-80cb-503887be290f)
+
 
 a) 10  
 b) 8  
 c) 6  
 d) 4  
 
-✅ **Answer:** *(Image missing, please provide the graph to determine the correct answer)*  
+✅ **Answer:**  b) 8 
 
 ---
 
@@ -68,14 +77,16 @@ d) There is no difference in how Python interprets single quotes, double quotes,
 
 ---
 
-### **8. How many nodes and edges does the following graph have?**  
+### **8. How many nodes and edges does the following graph have?** 
+
+![image](https://github.com/user-attachments/assets/a0065842-2133-4c8b-9e5f-fad3a0cd90a0)
 
 a) 10,6  
 b) 10,5  
 c) 8,6  
 d) 8,5  
 
-✅ **Answer:** *(Image missing, please provide the graph to determine the correct answer)*  
+✅ **Answer:** a) 10,6 
 
 ---
 
@@ -90,7 +101,9 @@ d) Depends on the number of nodes
 
 ---
 
-### **10. What will be the output of the following code?**  
+### **10. What will be the output of the following code?** 
+
+![image](https://github.com/user-attachments/assets/2777fb74-3f5c-4dd2-8319-bc8d7da8cc5c)
 
 a) It will print ”Hello”  
 b) It will raise a TypeError  
@@ -99,6 +112,3 @@ d) It will change the first character to uppercase and print ”Hello”
 
 ✅ **Answer:** *(Image missing, please provide the code snippet to determine the correct output)*  
 
----
-
-This README provides a structured format with all questions, multiple-choice options, and correct answers. If any images are missing, please provide them so I can ensure accuracy! 🚀
