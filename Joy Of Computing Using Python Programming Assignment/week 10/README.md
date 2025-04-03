@@ -5,7 +5,8 @@ Emma is a budding software developer working on a signal detection system. One d
 1 represents a strong signal.
 0 represents a weak signal.
 
- **Source Code : **
+ **Source Code :**
+ 
  ```
 def findMaxConsecutiveOnes(nums):
     max_count = 0  # To store the maximum streak of 1s
@@ -25,7 +26,9 @@ def findMaxConsecutiveOnes(nums):
 In the ancient land of Lexiconia, hidden messages are locked behind a common magical prefix. Only those who can decipher the longest common prefix will unveil the wisdom of the lost texts.
 
 Your task is to create a function that accepts a list of words, finds the longest common prefix, and prints the result.
- **Source Code : **
+
+ **Source Code :**
+ 
  ```
 def longestCommonPrefix(st):
     if not st:
@@ -49,7 +52,9 @@ def longestCommonPrefix(st):
 ### Week 10: Programming Assignment 3
 ### Question:
 Once upon a time in the land of Isomorphia, there were two ancient scrolls written in different languages. The wise king of Isomorphia wanted to know if these scrolls conveyed the same message or if they were completely different. He summoned his greatest coder, who had the magical power of Isomorphic Translation.
- **Source Code : **
+
+ **Source Code :**
+ 
  ```
 def isIsomorphic(s, t):
     if len(s) != len(t):
